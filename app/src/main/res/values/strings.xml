@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Compras</string>
+    <string name="pagar">Pagar</string>
+    <string name="card">Card</string>
+    <string name="cash">Cash</string>
+    <string name="coupon">Coupon</string>
+</resources>
